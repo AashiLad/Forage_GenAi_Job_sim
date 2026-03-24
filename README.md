@@ -15,8 +15,7 @@ GenAI tools (DeepSeek, ChatGPT) were used throughout to assist with EDA summariz
 ## 🗂️ Repository Structure
 
 ```
-tata-genai-delinquency-prediction/
-├── tata_delinquency_model.py       # Full pipeline script
+tata-genai-delinquency-prediction/     # Full pipeline script
 ├── tata_delinquency_model.ipynb    # Jupyter notebook (with outputs)
 ├── tata_model_dashboard.png        # Evaluation dashboard (6 charts)
 └── README.md                       # You are here
