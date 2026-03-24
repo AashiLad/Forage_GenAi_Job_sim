@@ -134,23 +134,6 @@ This simulation was designed to reflect modern AI-augmented analytics workflows:
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/yourusername/tata-genai-delinquency-prediction.git
-cd tata-genai-delinquency-prediction
-
-# 2. Install dependencies
-pip install scikit-learn pandas numpy matplotlib seaborn
-
-# 3. Run the pipeline
-python tata_delinquency_model.py
-```
-
-Or open `tata_delinquency_model.ipynb` directly in **Google Colab** — no setup needed.
-
----
 
 ## 🛠️ Tech Stack
 
